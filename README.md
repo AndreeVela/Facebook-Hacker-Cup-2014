@@ -1,0 +1,3 @@
+Facebook Hacker Cup is an international programming competition hosted and administered by Facebook. The competition began in 2011 as a means to identify top engineering talent for potential employment at Facebook.[1] The competition consists of a set of algorithmic problems which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions.
+
+These are my solutions for the problems of the qualification round, they are in python.
